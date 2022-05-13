@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jonathan @Excelsior2021
 - 👀 I’m interested in developing the world one app at a time.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, React, Python
+- 🌱 I’m currently learning HTML, CSS, JavaScript, React, Python.
 - 
 Check out my projects, let me know what you think! 😁
 
