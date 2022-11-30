@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jonathan @Excelsior2021
 - 👀 I’m interested in developing the world one app at a time.
 - ⚒️ HTML, CSS, SASS , JavaScript, React, Node, Express, Python and Git of course!
-- 🌱 I’m currently learning TypeScript, Jest and Webpack.
+- 🌱 I’m currently learning TypeScript, Jest, Webpack and React Native.
 
 
 Check out my projects, let me know what you think! 😁
