@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jonathan @Excelsior2021
 - 👀 I’m interested in developing the world one app at a time.
-- ⚒️ HTML, CSS, SASS , JavaScript, React, Node, Express, Python and Git of course!
+- ⚒️ Full Stack JavaScript.
 - 🌱 I’m currently learning Data Structures and Algorithms 😬.
 
 
