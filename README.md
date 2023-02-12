@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing the world one app at a time.
 - ⚒️ Full Stack JavaScript. Web Developer. Front-end Developer.
 - 🌱 I’m currently learning Data Structures and Algorithms 😬.
-- Front-end frameworks of choice: React.js, SolidJS
+- 🪟 Front-end frameworks of choice: React.js, SolidJS
 
 
 Check out my projects, let me know what you think! 😁
