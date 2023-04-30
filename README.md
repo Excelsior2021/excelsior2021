@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Jonathan @Excelsior2021
 - 👀 I’m interested in developing the world one app at a time.
-- ⚒️ Full Stack JavaScript. Web Developer. Front-end Developer.
-- 🌱 I’m currently learning Data Structures and Algorithms 😬.
+- ⚒️ Full Stack JavaScript Web Developee.
 - 🪟 Front-end frameworks of choice: React.js, SolidJS
 
 
