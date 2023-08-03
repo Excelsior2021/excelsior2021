@@ -2,6 +2,7 @@
 - 👀 I’m interested in developing the world one app at a time.
 - ⚒️ Full Stack JavaScript Web Developer.
 - 🪟 Front-end frameworks of choice: React.js, SolidJS
+- 🌱 Currently learning C and Vue.js.
 
 
 Check out my projects, let me know what you think! 😁
