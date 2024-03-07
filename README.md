@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Jonathan
 #### I love building functional UIs.
-![I love building functional UIs.](https://e0.pxfuel.com/wallpapers/691/707/desktop-wallpaper-morgan-codes-minimal-minimalist-code.jpg)
+
+![excelsior2021's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=excelsior2021&theme=react&show_icons=true&hide_border=true&layout=compact)
 
 
 <!---
