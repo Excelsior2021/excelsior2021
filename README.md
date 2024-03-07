@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Jonathan @Excelsior2021
-- 👀 I’m interested in developing the world one app at a time.
-- ⚒️ Full Stack JavaScript Web Developer.
+### Hi there 👋, I'm Jonathan
+#### I love building functional UIs.
+![I love building functional UIs.](https://e0.pxfuel.com/wallpapers/691/707/desktop-wallpaper-morgan-codes-minimal-minimalist-code.jpg)
+
 
 <!---
 Excelsior2021/Excelsior2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
